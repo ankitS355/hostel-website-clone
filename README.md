@@ -1,3 +1,2 @@
 # hostel-website-clone
-hostel website for Register the form and fill up the hostel form for allotment rooms
-    Author---Ankit  Sharma
+hostel website for Register the form and fill up the hostel form for allotment rooms </br> Author---Ankit  Sharma
